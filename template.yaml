@@ -7,6 +7,8 @@ metadata:
   tags:
     - angular
     - cli
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: user:default/fernando.b.hernandez
   type: website
