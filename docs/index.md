@@ -1,7 +1,7 @@
 # Angular Best Practices
 
 
-Is Your Head in an **Angular Cloud**? -- README.md in the root folder
+Is Your Head in an **Angular Cloud**? -- index.md in the docs folder
 
 ![Angular](images/angular.png)
 
